@@ -1,0 +1,12 @@
+https://en.wikipedia.org/wiki/Comparison_of_GUI_testing_tools
+https://www.softwaretestinghelp.com/best-gui-testing-tools/
+https://www.froglogic.com/squish/editions/automated-testing-embedded-qt-guis-hmis/
+https://www.theseus.fi/bitstream/handle/10024/91168/Automatic%20GUI%20testing%20on%20embedded%20display%20module.pdf?sequence=1
+https://blog.gurock.com/reasonable-user-interface-ui-automation/
+https://www.froglogic.com/squish-gui-testing/?frog_campaignid=1601598417&frog_addgroupid=59122942925&frog_targetid=aud-451486677590:kwd-348754389074&frog_keyword=%2Bautomated%20%2Bui%20%2Btesting&frog_matchtype=b&frog_creative=298217915513&frog_network=g&frog_placement=&frog_device=c&gclid=EAIaIQobChMI6a_fhPGb3gIVRQwrCh25rAutEAAYASAAEgLo1fD_BwE
+https://pdfs.semanticscholar.org/2568/86d09f2b67648049f822292f9020ef4f80f0.pdf
+https://www.invensis.net/blog/it/best-automated-gui-testing-tools-features/
+http://publications.lib.chalmers.se/records/fulltext/235021/235021.pdf
+http://download.froglogic.com/public/Object_vs_Image_based_testing.pdf
+https://applitools.com/blog/can-image-based-functional-test-automation-tools
+
